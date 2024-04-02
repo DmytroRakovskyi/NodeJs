@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroRakovskyi/NodeJs.git"
+  },
+  "author": "drakovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroRakovskyi/NodeJs/issues"
+  },
+  "homepage": "https://github.com/DmytroRakovskyi/NodeJs#readme"
+}
